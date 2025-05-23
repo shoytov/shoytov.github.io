@@ -1,0 +1,26 @@
+
+@font-face {
+  font-family: "Arcade";
+  src: url("fonts/arcade.ttf");
+}
+
+body {
+  background-color: #e8e8e8;
+  padding: 20px 10px;
+  font-family: "Arcade";
+}
+
+h3, h1 {
+  margin: 0px 0px;
+  padding: 0px 0px;
+}
+
+h2 {
+  margin: 20px 0px 0px 0px;
+  padding: 0px 0px;
+}
+
+.text {
+  margin: 0px 0px;
+  padding: 0px 0px;
+}
