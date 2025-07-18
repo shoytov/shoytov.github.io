@@ -1,13 +1,13 @@
 
 @font-face {
-  font-family: "Arcade";
-  src: url("fonts/arcade.ttf");
+  font-family: "GamePlayed";
+       url("fonts/gp.ttf") format("truetype");
 }
 
 body {
   background-color: #e8e8e8;
   padding: 20px 10px;
-  font-family: "Arcade";
+  font-family: "GamePlayed", sans-serif;;
 }
 
 h3, h1 {
